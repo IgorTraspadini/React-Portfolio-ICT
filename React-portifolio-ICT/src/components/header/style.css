@@ -39,7 +39,7 @@
 
 /* included a backgroud color  */
 body {
-  background-color: var(--color-10)
+  background-color: var(--color-9) !important;
 }
 
 h1 {

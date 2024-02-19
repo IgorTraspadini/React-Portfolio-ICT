@@ -12,20 +12,13 @@ function Header () {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav fw-bolder">
           <li className="nav-item">
-            <a className="nav-link" href="#about" role="button" aria-label="about session">About Me</a>
+            <a className="nav-link" href="#about" role="button" aria-label="about session">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#work" role="button" aria-label="work session">Work</a>
+            <a className="nav-link" href="#work" role="button" aria-label="work session">Projects</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#skills" role="button" aria-label="skills session">Skills</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#contact" role="button" aria-label="contact session">Contact Me</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="./assets/doc/ICT_CV.pdf" target="_blank" rel='noreferrer noopener' role="button"
-              aria-label="resume pdf">Resume</a>
+            <a className="nav-link" href="#contact" role="button" aria-label="contact session">Contact</a>
           </li>
         </ul>
       </div>
