@@ -1,0 +1,32 @@
+/*included a set of variables
+  - color pallet
+*/
+:root {
+  --font-family-2: Poppins, sans-serif;
+  --color-7: #FFFFFF;
+  --color-8: #AAA6C3;
+  --color-9: #151030;
+}
+
+.hero {
+  background-color: var(--color-9) !important;
+  color: var(--color-7) !important;
+  padding-top: 50px !important;
+}
+
+.hero img {
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+}
+
+h2 {
+  font-size: 45px !important;
+  text-align: left !important;
+  color: var(--color-8) !important;
+  text-shadow: 1px 1px 1px var(--color-8);
+}
+
+.about {
+  text-align: left;
+}
