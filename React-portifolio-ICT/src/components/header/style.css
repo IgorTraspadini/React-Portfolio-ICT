@@ -1,0 +1,128 @@
+/*included a set of variables
+  - color pallet
+*/
+:root {
+  --color-1: #ecc577;
+  --color-2: #D6BA73;
+  --color-3: #A3CCB3;
+  --color-4: #403C3B;
+  --color-5: #59344F;
+
+  --font-family-2: Poppins, sans-serif;
+  --color-6: #050816;
+  --color-7: #FFFFFF;
+  --color-8: #AAA6C3;
+  --color-9: #151030;
+  --color-10: rgb(5, 8, 22);
+  --color-11: #050817;
+  --color-12: rgb(21, 16, 48);
+  --color-13: #5d4dbf;
+}
+
+.navbar-nav {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+}
+
+.navbar {
+  background-color: #050816 !important;
+}
+
+.navbar-brand {
+  margin: 0 !important;
+}
+
+.nav-link {
+  font-family: var(--font-family-2) !important;
+  color: var(--color-8) !important;
+  font-size: 18px !important;
+}
+
+.navbar-toggler {
+  background-color: var(--color-8) !important;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: var(--color-7) !important;
+}
+
+/* included a backgroud color  */
+body {
+  background-color: var(--color-10)
+}
+
+h1 {
+  font-family: var(--font-family-2) !important;
+  color: var(--color-7) !important;
+  font-size: 20px !important;
+  padding: 0 0 0 40px !important;
+  text-align: center !important;
+}
+
+.hero {
+  background-color: var(--color-9);
+  color: var(--color-7);
+  padding-top: 59px;
+}
+
+.hero img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+}
+
+h2 {
+  font-size: 45px;
+  color: var(--color-9);
+  text-shadow: 1px 1px 1px var(--color-8);
+}
+
+.img-small {
+  height: 200px;
+  object-fit: cover;
+}
+
+.img-big {
+  height: 30vw;
+}
+
+.card-body {
+  background-color: var(--color-12);
+  color: var(--color-8);
+}
+
+figure img {
+  height: 80px;
+  width: 80px;
+}
+
+figcaption {
+  color: var(--color-7);
+  font-family: var(--font-family-2);
+  text-align: center;
+}
+
+.contact a {
+  color: var(--color-8);
+  font-size: 20px;
+  font-family: var(--font-family-2);
+  text-decoration: none;
+  border-bottom: var(--color-8) solid;
+  padding: 2px 5px;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+footer {
+  background-color: var(--color-9);
+  color: var(--color-8);
+}
+
+footer img:hover{
+  box-shadow: 5px 5px 2px #686868; 
+}
