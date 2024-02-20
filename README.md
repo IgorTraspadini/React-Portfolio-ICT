@@ -5,6 +5,7 @@
 ## Description
 Creating a portfolio site using React from scratch.
 
+![project_demo](https://github.com/IgorTraspadini/React-Portfolio-ICT/assets/126266157/3f8f0182-dba0-4024-9831-9cdcbb2837d3)
 
 ## Language
 - Javascript
