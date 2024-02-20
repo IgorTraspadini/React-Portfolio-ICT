@@ -13,7 +13,7 @@ function Home() {
             activities, and support decision-makers. Apart from web developer my background also includes data analytics,
             data science, and six sigma project coordination.</p>
         </div>
-        <div className="d-flex justify-content-center text-center col-sm-12 col-md-4 col-lg-3">
+        <div className="d-flex pt-5 justify-content-center text-center col-sm-12 col-md-4 col-lg-3">
           <img src="./src/assets/Igor.jpg" alt="Igor picture"></img>
         </div>
       </div>
