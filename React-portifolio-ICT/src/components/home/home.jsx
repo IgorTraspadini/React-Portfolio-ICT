@@ -9,7 +9,7 @@ function Home() {
           <h2>Hi there,</h2> 
           <h2>Welcome to my portfolio site.</h2>
           <br></br>
-          <p className="about fs-4 mb-4">I'm passionateabout technology and have used it to automate repetitive tasks, speed up daily
+          <p className="about fs-4 mb-4">I'm passionate about technology and have used it to automate repetitive tasks, speed up daily
             activities, and support decision-makers. Apart from web developer my background also includes data analytics,
             data science, and six sigma project coordination.</p>
         </div>

@@ -1,0 +1,17 @@
+:root {
+  --font-family-2: Poppins, sans-serif;
+  --color-7: #FFFFFF;
+  --color-8: #AAA6C3;
+  --color-9: #151030;
+}
+
+.label-cust {
+  color: var(--color-8) !important;
+  font-size: large !important;
+}
+
+.bt-cust {
+  background-color: var(--color-8) !important;
+  font-size: large !important;
+  font-weight: bolder !important;
+}

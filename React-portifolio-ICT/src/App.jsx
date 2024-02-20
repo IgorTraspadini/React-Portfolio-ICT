@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import Header from './components/header/Header'
 import Home from './components/home/home'
+import Contact from './components/contact/contact'
 import './App.css'
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
 
   return (<>
   <Header />
-  <Home/>
+  <Contact/>
   </>
   )
 
