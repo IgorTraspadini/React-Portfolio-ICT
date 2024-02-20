@@ -1,10 +1,17 @@
 import './style.css'
+import ProjectCard from '../projects_card/project-card'
 
 function ProjectP() {
   return <>
-    <div className="container-fluid p-5 mt-4">
+    <div className="container-fluid justify-content-center p-5 mt-4">
       <h3 className='pb-4'>My Projects</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit molestias laboriosam, similique vitae adipisci pariatur, inventore nostrum fuga dolores exercitationem quia corrupti ea, quidem non voluptatum amet dolore error. Autem.</p>
+      <div className='mt-20 d-flex justify-content-evenly flex-wrap'>
+        <div><ProjectCard test="test" /></div>
+        <div><ProjectCard test="test" /></div>
+        <div><ProjectCard test="test" /></div>
+        <div><ProjectCard test="test" /></div>
+        <div><ProjectCard test="test" /></div>
+      </div>
     </div>
   </>
 }
