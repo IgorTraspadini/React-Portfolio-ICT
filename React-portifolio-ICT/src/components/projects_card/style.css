@@ -1,0 +1,21 @@
+:root {
+  --font-family-2: Poppins, sans-serif;
+  --color-7: #FFFFFF;
+  --color-8: #AAA6C3;
+  --color-9: #151030;
+}
+
+.card {
+  background-color: var(--color-8) !important;
+  text-align: left !important;
+  padding: 12px !important;
+}
+
+.card-link {
+  color: var(--color-9) !important;
+  font-weight: bolder !important;
+}
+
+.card-title {
+  color: var(--color-9) !important;
+}
