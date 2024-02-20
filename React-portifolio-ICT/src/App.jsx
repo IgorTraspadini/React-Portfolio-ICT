@@ -8,7 +8,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename={'/vite-portifolio-app'}>
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
