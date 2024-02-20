@@ -1,0 +1,11 @@
+:root {
+  --font-family-2: Poppins, sans-serif;
+  --color-7: #FFFFFF;
+  --color-8: #AAA6C3;
+  --color-9: #151030;
+}
+
+h3 {
+  color: var(--color-8) !important;
+  text-align: left !important;
+}
