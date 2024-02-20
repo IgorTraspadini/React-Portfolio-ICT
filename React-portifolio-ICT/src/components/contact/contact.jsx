@@ -5,7 +5,7 @@ function Contact() {
   return <>
     <div className="" id="contact">
       <div className="row align-items-center py-3">
-        <div className="pt-4 text-start col-sm-12 col-md-12 col-lg-6">
+        <div className="pt-5 text-start col-sm-12 col-md-12 col-lg-6">
           <p className="fs-4 label-cust">Get in touch...</p>
           <div className="mb-3">
             <label for="NameInput" className="form-label label-cust">Your Name</label>
