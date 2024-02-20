@@ -43,16 +43,16 @@ function Contact() {
               </a>
             </li>
             <li>
-              <a href="https://github.com/IgorTraspadini" target="_blank" rel='noreferrer noopener' role="button"
-                aria-label="github link">
+              <a href="mailto: igorchieppe@hotmail.com" target="_blank" rel='noreferrer noopener' role="button"
+                aria-label="link to email">
                 <img class="mx-2 me-4"
                   src="./src/assets/email.png">
                 </img>
               </a>
             </li>
             <li>
-              <a href="https://github.com/IgorTraspadini" target="_blank" rel='noreferrer noopener' role="button"
-                aria-label="github link">
+              <a class="nav-link" href="./src/assets/Igor_CV.pdf" target="_blank" rel='noreferrer noopener' role="button"
+              aria-label="resume pdf">
                 <img class="mx-2 me-4" width="50px"
                   src="./src/assets/CV.png">
                 </img>
