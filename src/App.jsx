@@ -11,7 +11,7 @@ function App() {
     <Router basename={'/React-portifolio-ICT'}>
       <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='' element={<Home />} />
         <Route path='/projects' element={<ProjectP />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='*' element={<h1 className='mt-5 pt-5'> Page Not Found!</h1>} />
