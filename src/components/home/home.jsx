@@ -14,7 +14,7 @@ function Home() {
             data science, and six sigma project coordination.</p>
         </div>
         <div className="d-flex pt-5 justify-content-center text-center col-sm-12 col-md-4 col-lg-3">
-          <img src="./src/assets/Igor.jpg" alt="Igor picture"></img>
+          <img src="/React-Portfolio-ICT/src/assets/Igor.jpg" alt="Igor picture"></img>
         </div>
       </div>
     </div>

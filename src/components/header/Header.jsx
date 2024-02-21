@@ -5,7 +5,7 @@ function Header() {
   return <>
     <nav className="navbar fixed-top navbar-expand-lg ">
       <div className="container-fluid d-flex">
-        <h1 className="navbar-brand fw-bolder"><img src='./src/assets/logo.JPG' width='50px' alt='logo'></img> Igor Traspadini </h1>
+        <h1 className="navbar-brand fw-bolder"><img src='/React-Portfolio-ICT/src/assets/logo.JPG' width='50px' alt='logo'></img> Igor Traspadini </h1>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

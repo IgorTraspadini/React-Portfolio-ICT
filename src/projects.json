@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Finance Dashboard",
     "description": "This project provides a terminal-like data and information about the shares of publicly traded companies in real-time.",
-    "imgurl": "./src/assets/finance_dashboard.jpg",
+    "imgurl": "/React-Portfolio-ICT/src/assets/finance_dashboard.jpg",
     "gitlink": "https://github.com/englburc/finX",
     "deploylink": "https://englburc.github.io/finX/"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Shop Floor Web App",
     "description": "Application designed to provide digitization of the shop floor process.",
-    "imgurl": "./src/assets/digitalisation.jfif",
+    "imgurl": "/React-Portfolio-ICT/src/assets/digitalisation.jfif",
     "gitlink": "",
     "deploylink": ""
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Weather Dashboard",
     "description": "App that allows users to see the weather forecast for cities of their choosing.",
-    "imgurl": "./src/assets/weather_dashboard.jfif",
+    "imgurl": "/React-Portfolio-ICT/src/assets/weather_dashboard.jfif",
     "gitlink": "https://github.com/IgorTraspadini/Weather-Dashboard-ICT",
     "deploylink": "https://igortraspadini.github.io/Weather-Dashboard-ICT/"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Team Profile Generator",
     "description": "This application will take in information about employees on a software engineering team, then generate an HTML webpage using Node.js command-line application, that displays summaries for each person.",
-    "imgurl": "./src/assets/team_profile.jfif",
+    "imgurl": "/React-Portfolio-ICT/src/assets/team_profile.jfif",
     "gitlink": "https://github.com/IgorTraspadini/Team-Profile-Generator-ICT",
     "deploylink": "https://github.com/IgorTraspadini/Team-Profile-Generator-ICT/blob/main/output/team.html"
   },
@@ -35,7 +35,7 @@
     "id": 6,
     "title": "Password Generator",
     "description": "App that an employee can use to generate a random password based on criteria they've selected.",
-    "imgurl": "./src/assets/password_generator.jfif",
+    "imgurl": "/React-Portfolio-ICT/src/assets/password_generator.jfif",
     "gitlink": "https://github.com/IgorTraspadini/Password-generator-ICT",
     "deploylink": "https://igortraspadini.github.io/Password-generator-ICT/"
   },
@@ -43,7 +43,7 @@
     "id": 5,
     "title": "Code Quiz",
     "description": "Timed, multiple-choice app quiz that can keep track of high scores and quiz-takers' initials.",
-    "imgurl": "./src/assets/code_quiz.jpg",
+    "imgurl": "/React-Portfolio-ICT/src/assets/code_quiz.jpg",
     "gitlink": "https://github.com/IgorTraspadini/Code-Quiz-ICT",
     "deploylink": "https://igortraspadini.github.io/Code-Quiz-ICT/"
   }

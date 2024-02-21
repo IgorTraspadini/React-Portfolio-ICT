@@ -10,6 +10,6 @@ export default defineConfig({
 //  build: {
 //    outDir: 'build'
 //  },
-  base: "https://igortraspadini.github.io",
+  base: "https://igortraspadini.github.io/React-Portfolio-ICT",
   plugins: [react()],
 })

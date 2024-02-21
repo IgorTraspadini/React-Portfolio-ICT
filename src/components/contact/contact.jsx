@@ -30,7 +30,7 @@ function Contact() {
               <a href="https://www.linkedin.com/in/igor-chieppe-traspadini/?locale=en_US" target="_blank"
                 rel='noreferrer noopener' role="button" aria-label="linkedin link">
                 <img className="mx-2 me-4"
-                  src="./src/assets/3116886_design_linkedin_material_business_connection_icon.png">
+                  src="/React-Portfolio-ICT/src/assets/3116886_design_linkedin_material_business_connection_icon.png">
                 </img>
               </a>
             </li>
@@ -38,7 +38,7 @@ function Contact() {
               <a href="https://github.com/IgorTraspadini" target="_blank" rel='noreferrer noopener' role="button"
                 aria-label="github link">
                 <img className="mx-2 me-4"
-                  src="./src/assets/764974_github_media_social_square_icon.png">
+                  src="/React-Portfolio-ICT/src/assets/764974_github_media_social_square_icon.png">
                 </img>
               </a>
             </li>
@@ -46,15 +46,15 @@ function Contact() {
               <a href="mailto: igorchieppe@hotmail.com" target="_blank" rel='noreferrer noopener' role="button"
                 aria-label="link to email">
                 <img class="mx-2 me-4"
-                  src="./src/assets/email.png">
+                  src="/React-Portfolio-ICT/src/assets/email.png">
                 </img>
               </a>
             </li>
             <li>
-              <a class="nav-link" href="./src/assets/Igor_CV.pdf" target="_blank" rel='noreferrer noopener' role="button"
+              <a class="nav-link" href=".//React-Portfolio-ICT//React-Portfolio-ICT/src/assets/Igor_CV.pdf" target="_blank" rel='noreferrer noopener' role="button"
               aria-label="resume pdf">
                 <img class="mx-2 me-4" width="50px"
-                  src="./src/assets/CV.png">
+                  src="/React-Portfolio-ICT/src/assets/CV.png">
                 </img>
               </a>
             </li>

@@ -9,12 +9,12 @@ function ProjectCard(props) {
         <p className="card-text">{props.description}</p>
         <a href={props.git} className="card-link">
           <img className="mx-2 me-4" width="70px"
-            src="./src/assets/GitHub-Logo.png">
+            src="/React-Portfolio-ICT/src/assets/GitHub-Logo.png">
           </img>
         </a>
         <a href={props.deploy} className="card-link">
           <img className="mx-2 me-4" width="40px"
-            src="./src/assets/deploy.png">
+            src="/React-Portfolio-ICT/src/assets/deploy.png">
           </img>
         </a>
       </div>
