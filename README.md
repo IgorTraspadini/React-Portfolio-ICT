@@ -28,7 +28,7 @@ npm run dev
 ```
 
 ## Link to Deployed Project
-- [Project Link]()
+- [Project Link](https://igortraspadini.github.io/React-Portfolio-ICT/)
   
 ## References 
 - [npm](https://www.npmjs.com)
