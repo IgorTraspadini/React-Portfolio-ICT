@@ -1,6 +1,7 @@
 {
   "name": "react-portifolio-ict",
-  "private": true,
+  "private": false,  
+  "homepage": "https://igortraspadini.github.io/React-Portfolio-ICT",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
