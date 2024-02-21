@@ -8,7 +8,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router basename={'/React-portifolio-ICT'}>
+    <Router>
       <Header />
       <Routes>
         <Route path='./' element={<Home />} />
