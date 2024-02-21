@@ -8,12 +8,12 @@ import './App.css'
 
 function App() {
   return (
-    <Router basename={'/React-Portifolio-ICT'}>
+    <Router>
       <Header />
       <Routes>
-        <Route path='./' element={<Home />} />
-        <Route path='./projects' element={<ProjectP />} />
-        <Route path='./contact' element={<Contact />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/projects' element={<ProjectP />} />
+        <Route path='/contact' element={<Contact />} />
         <Route path='*' element={<h1 className='mt-5 pt-5'> Page Not Found!</h1>} />
       </Routes>
     </Router>
